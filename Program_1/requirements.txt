@@ -1,0 +1,23 @@
+Your program should:
+
+Ask the user for their starting and ending towns, making sure they’re both towns in the database.
+Ask them then to select the search method they wish to use to find a route to the destination.
+    If that route exists, the program should then print the route the method found in order, from origin to destination.
+    If you want to get fancy, you might see how the route generated looks as a map (either a map of connected states as we looked at in class, or as a projection in 2D space based on location and connectivity).
+    
+    Note that your database is very limited, and many of the real-world roads are left out for simplicity*.
+
+Your program should also: 
+    measure and print the total time needed to find the route (and include a time-out).
+    calculate and display the total distance (node to node) for the cities visited on the route selected.
+    (opt) determine the total memory used (scale of the arrays) to find the solution.
+
+Return to the search method selection and allow a new method to be selected for comparison. 
+
+Submission: Your submission will include:
+1) A link to the repo -- Replit, GitHub, Jupiter or GitLab (or zip file of your project from your IDE) 
+2) A video demonstrating and explaining both the CODE and the requested FUNCTIONALITY. 
+You should accomplish this demonstration by selecting a set of start and end points that show off the operation of your code. [Suggestions on candidate search pairs will be provided later]
+Please include a discussion of your observations of the difference in execution time for each method.
+You should SPEAK while showing the code, be sure to highlight how each of your functions are finding the route.
+This video should be 3-5 minutes in length [you can/should edit out those boring segments of the runtime] -- please do not exceed 7 minutes for your video.  
