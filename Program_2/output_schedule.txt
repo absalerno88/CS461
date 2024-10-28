@@ -1,0 +1,13 @@
+Best schedule fitness: 1.7000000000000002
+Assignments:
+SLA100A -> Room: Beach 301, Time: 10 AM, Facilitator: Numen
+SLA100B -> Room: Loft 310, Time: 11 AM, Facilitator: Zeldin
+SLA191A -> Room: Frank 119, Time: 1 PM, Facilitator: Shaw
+SLA191B -> Room: Roman 201, Time: 2 PM, Facilitator: Zeldin
+SLA201 -> Room: Frank 119, Time: 12 PM, Facilitator: Banks
+SLA291 -> Room: Roman 216, Time: 1 PM, Facilitator: Tyler
+SLA303 -> Room: Loft 310, Time: 10 AM, Facilitator: Numen
+SLA304 -> Room: Slater 003, Time: 11 AM, Facilitator: Uther
+SLA394 -> Room: Frank 119, Time: 10 AM, Facilitator: Glen
+SLA449 -> Room: Slater 003, Time: 12 PM, Facilitator: Glen
+SLA451 -> Room: Loft 310, Time: 12 PM, Facilitator: Numen
